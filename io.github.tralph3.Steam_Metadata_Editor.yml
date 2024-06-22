@@ -5,7 +5,7 @@ sdk: org.freedesktop.Sdk
 command: start.sh
 finish-args:
   - --filesystem=xdg-data/Steam:rw
-  - --filesystem=xdg-data/Steam-Metadata-Editor:rw
+  - --filesystem=xdg-data/Steam-Metadata-Editor:create
   - --filesystem=~/.var/app/com.valvesoftware.Steam/.local/share/Steam:rw
   - --socket=x11
   - --share=ipc
