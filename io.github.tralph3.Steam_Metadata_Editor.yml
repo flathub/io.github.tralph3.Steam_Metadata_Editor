@@ -40,7 +40,7 @@ modules:
     sources:
       - type: git
         url: https://github.com/tralph3/Steam-Metadata-Editor
-        commit: 800668c83e41ec0601a83fb933edef82091ca4ef
+        commit: 5c6ec345417c48160ea9798d97643c6f0e82ba7d
       - type: script
         dest-filename: start.sh
         commands:
