@@ -7,6 +7,10 @@
   <name>Steam Metadata Editor</name>
   <summary>An easy to use GUI that edits the metadata of your Steam Apps</summary>
 
+  <developer id="io.github.tralph3">
+    <name>tralph3</name>
+  </developer>
+
   <metadata_license>FSFAP</metadata_license>
   <project_license>GPL-3.0-or-later</project_license>
 
